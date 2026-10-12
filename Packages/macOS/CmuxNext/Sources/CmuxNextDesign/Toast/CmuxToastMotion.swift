@@ -25,6 +25,7 @@ enum CmuxToastMotion {
         let before = toast.convert(toast.bounds, to: nil).minY
         relayout()
         let after = toast.convert(toast.bounds, to: nil).minY
+        print("DIAG move before=\(before) after=\(after) movement=\(Motion.animatesMovement)")
         guard abs(after - before) > 0.5, let layer = layer(of: toast) else { return }
         // Window space is y-up; the layer's translation follows its view's flip.
         let shown = (Motion.presentationValue(layer, "transform.translation.y") as? CGFloat) ?? 0

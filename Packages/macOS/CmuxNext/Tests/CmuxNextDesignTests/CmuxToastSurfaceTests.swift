@@ -107,9 +107,14 @@ struct CmuxToastSurfaceTests {
         toast.layer?.removeAllAnimations() // its arrival is done
         let before = toast.convert(toast.bounds, to: nil).minY
 
+        print("DIAG before=\(before) movement=\(Motion.animatesMovement) speed=\(Motion.speed) keys=\(toast.layer?.animationKeys() ?? []) layer=\(String(describing: toast.layer.map(ObjectIdentifier.init))) flipped=\(String(describing: toast.superview?.isFlipped)) win=\(String(describing: toast.window))")
         composer.frame.size.height = 160
         NotificationCenter.default.post(name: .cmuxToastAvoidanceDidChange, object: composer)
-        for _ in 0..<50 where toast.convert(toast.bounds, to: nil).minY == before { try await Task.sleep(for: .milliseconds(10)) }
+        print("DIAG posted minY=\(toast.convert(toast.bounds, to: nil).minY) keys=\(toast.layer?.animationKeys() ?? [])")
+        for i in 0..<50 where toast.convert(toast.bounds, to: nil).minY == before {
+            try await Task.sleep(for: .milliseconds(10))
+            print("DIAG poll \(i) minY=\(toast.convert(toast.bounds, to: nil).minY) keys=\(toast.layer?.animationKeys() ?? []) layer=\(String(describing: toast.layer.map(ObjectIdentifier.init)))")
+        }
         #expect(toast.convert(toast.bounds, to: nil).minY >= before + 99, "the toast moved clear of the composer")
         #expect(toast.layer?.animation(forKey: "transform.translation.y") != nil, "the toast jumped there in one frame")
         handle.dismiss()
