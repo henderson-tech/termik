@@ -1,5 +1,6 @@
 #if DEBUG
 import AppKit
+import CmuxNextControl
 import CmuxNextSettings
 import CmuxNextWakeups
 import Darwin
@@ -9,7 +10,9 @@ import UniformTypeIdentifiers
 /// `debug.new_tab {action: "frame_strip"}` (DEBUG builds): the window as the
 /// window server composited it, frame after frame, around one key sent
 /// through the real key path (`key`, default `n`, with Command: Cmd-N; `t`
-/// for Cmd-T). Frames are read off the main actor back to back for
+/// for Cmd-T), or around one action run through the control router as the
+/// palette and the `cmux` CLI run it (`run`: `{"action": id, "args": {…}}`).
+/// Frames are read off the main actor back to back for
 /// `duration_ms` (default 700) after the key, and some before it.
 ///
 /// A paint-stable opening changes only the content area of the pane that
@@ -41,9 +44,20 @@ enum DebugFrameStrip {
         await withCheckedContinuation { (done: CheckedContinuation<Void, Never>) in
             lead.schedule(after: .milliseconds(120)) { @MainActor in done.resume() }
         }
-        let sent = DebugKey.send(["key": .string(params["key"]?.stringValue ?? "n"), "modifiers": .array([.string("command")]),
+        let sent: JSONValue
+        // An awaited run returns after its change: its frames count from the call.
+        let issuedAt = BenchSpans.ms(.now - start)
+        if case .object(let run)? = params["run"] {
+            switch await services.apps.controlRouter?.handle(ControlRequest(method: "action.run", params: run)) {
+            case .success(let value)?: sent = value
+            case .failure(let error)?: sent = .object(["error": .string(error.message)])
+            case nil: sent = .object(["error": .string("no control router")])
+            }
+        } else {
+            sent = DebugKey.send(["key": .string(params["key"]?.stringValue ?? "n"), "modifiers": .array([.string("command")]),
                                   "window": .string(controller.state.id)], services: services)
-        let sentAt = BenchSpans.ms(.now - start)
+        }
+        let sentAt = params["run"] == nil ? BenchSpans.ms(.now - start) : issuedAt
         let frames = await recording.value
         guard let first = frames.first, let last = frames.last, let before = frames.last(where: { $0.milliseconds < sentAt }) else {
             return .object(["error": .string("no frames"), "key": sent])
