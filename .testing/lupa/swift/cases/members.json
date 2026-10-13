@@ -1,0 +1,2352 @@
+[
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.mapsDirectConnectionStartupFailureToRetryableStatus",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.mapsDirectConnectionStartupFailureToRetryableStatus",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:105"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-GhosttyThemeDirectoriesTests.ordersDirectories",
+  "args": [
+   "refs",
+   "GhosttyThemeDirectoriesTests.ordersDirectories",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/GhosttyThemeColorsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/GhosttyThemeColorsTests.swift:68"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/GhosttyThemeColorsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxCodexConfigEditorTests.uninstallRemovesFeaturesHooksSetting",
+  "args": [
+   "refs",
+   "CmuxCodexConfigEditorTests.uninstallRemovesFeaturesHooksSetting",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift:55"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteRelayClientHandshake.randomClientNonce",
+  "args": [
+   "refs",
+   "RemoteRelayClientHandshake.randomClientNonce",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift:101",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift:65"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WorkspaceRemoteTerminalTransportTests.cliValueParsing",
+  "args": [
+   "refs",
+   "WorkspaceRemoteTerminalTransportTests.cliValueParsing",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceRemoteTerminalTransportTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceRemoteTerminalTransportTests.swift:7"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceRemoteTerminalTransportTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-DarwinResourceSamplingTests.publicTopologyFallbackRetainsIdentity",
+  "args": [
+   "refs",
+   "DarwinResourceSamplingTests.publicTopologyFallbackRetainsIdentity",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift:109"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHStartupLaunchScriptsTests.entries",
+  "args": [
+   "refs",
+   "SSHStartupLaunchScriptsTests.entries",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift:24",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift:39",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift:80"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedFileAppendOpenerTests.refusesASymbolicLink",
+  "args": [
+   "refs",
+   "OwnedFileAppendOpenerTests.refusesASymbolicLink",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:34"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-PrivateDirectoryCheckTests.rejectsARegularFile",
+  "args": [
+   "refs",
+   "PrivateDirectoryCheckTests.rejectsARegularFile",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift:56"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-JumpToBottomAffordanceTests.reenablingDoesNotResurfaceOverContentThatOwnsScrolling",
+  "args": [
+   "refs",
+   "JumpToBottomAffordanceTests.reenablingDoesNotResurfaceOverContentThatOwnsScrolling",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/JumpToBottomAffordanceTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/JumpToBottomAffordanceTests.swift:84"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/JumpToBottomAffordanceTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachParkedSessionExitCodeTests.parkedSessionIsTerminal",
+  "args": [
+   "refs",
+   "SSHPTYAttachParkedSessionExitCodeTests.parkedSessionIsTerminal",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachParkedSessionExitCodeTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachParkedSessionExitCodeTests.swift:22"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachParkedSessionExitCodeTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReplayOutputFilterClipboardTests.preservesLiveClipboardReadAfterReplay",
+  "args": [
+   "refs",
+   "SSHPTYReplayOutputFilterClipboardTests.preservesLiveClipboardReadAfterReplay",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:77"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHReconnectBudgetTests.unusableBudgetsFailClosedAndSaySo",
+  "args": [
+   "refs",
+   "SSHReconnectBudgetTests.unusableBudgetsFailClosedAndSaySo",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift:27"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerTests.resolvesCommandViaFallbackDirectoryOutsidePath",
+  "args": [
+   "refs",
+   "CommandRunnerTests.resolvesCommandViaFallbackDirectoryOutsidePath",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:137"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowCaptureOutputNameTests.noLabelLeavesJustTheIdentifier",
+  "args": [
+   "refs",
+   "WindowCaptureOutputNameTests.noLabelLeavesJustTheIdentifier",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowCaptureOutputNameTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowCaptureOutputNameTests.swift:27"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowCaptureOutputNameTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarTabDropIndicatorPredicate.topVisible",
+  "args": [
+   "refs",
+   "SidebarTabDropIndicatorPredicate.topVisible",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarTabDropIndicatorPredicate.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarTabDropIndicatorPredicate.swift:22",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:111",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:126",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:197",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:213",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:237",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:27",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:273",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:40",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:53",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:68",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:82",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:96"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarTabDropIndicatorPredicate.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowScreenshotRequestTests.jpgNamesTheJPEGFormat",
+  "args": [
+   "refs",
+   "WindowScreenshotRequestTests.jpgNamesTheJPEGFormat",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:21"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingFrameGeometryTests.aRegionFullyOutsideTheWindowFails",
+  "args": [
+   "refs",
+   "WindowRecordingFrameGeometryTests.aRegionFullyOutsideTheWindowFails",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:102"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHAgentSocketResolverTests.identityAgentWithNoInheritedSocket",
+  "args": [
+   "refs",
+   "SSHAgentSocketResolverTests.identityAgentWithNoInheritedSocket",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift:33"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-ProcessSnapshotService.snapshot",
+  "args": [
+   "refs",
+   "ProcessSnapshotService.snapshot",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessSnapshotService.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessSnapshotService.swift:49",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:113",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:12",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:123",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:127",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:129",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:15",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:30",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:32",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:33",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:43",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:45",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:59",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:64",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:72",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:74",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:88",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:92"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessSnapshotService.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-AtomicBooleanGateTests.acquireReaderObservesReleasePublishedActivation",
+  "args": [
+   "refs",
+   "AtomicBooleanGateTests.acquireReaderObservesReleasePublishedActivation",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicBooleanGateTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicBooleanGateTests.swift:47"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicBooleanGateTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedLogFileTests.doesNotWriteThroughASymlink",
+  "args": [
+   "refs",
+   "OwnedLogFileTests.doesNotWriteThroughASymlink",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/OwnedLogFileTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/OwnedLogFileTests.swift:56"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/OwnedLogFileTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteRelayClientHandshakeTests.replayedProofIsRefused",
+  "args": [
+   "refs",
+   "RemoteRelayClientHandshakeTests.replayedProofIsRefused",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift:103"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachReplayOutputStreamTests.stream",
+  "args": [
+   "refs",
+   "SSHPTYAttachReplayOutputStreamTests.stream",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift:17",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift:28",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift:48",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift:59"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayOutputStreamTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarTabDropIndicatorPredicateTopVisibleTests.ReturnsFalseWhenIndicatorTargetsThisRowBottomEdge",
+  "args": [
+   "refs",
+   "SidebarTabDropIndicatorPredicateTopVisibleTests.ReturnsFalseWhenIndicatorTargetsThisRowBottomEdge",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:62"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-PrivateDirectoryCheckTests.makeDirectory",
+  "args": [
+   "refs",
+   "PrivateDirectoryCheckTests.makeDirectory",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift:19",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift:34",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift:41",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift:50"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/PrivateDirectoryCheckTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileWatcher.nearestExistingDirectory",
+  "args": [
+   "refs",
+   "FileWatcher.nearestExistingDirectory",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:126",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:187",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:257"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SentryNoiseFilterTests.dropsCallerStateProtocolOutcomes",
+  "args": [
+   "refs",
+   "SentryNoiseFilterTests.dropsCallerStateProtocolOutcomes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:85"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHAgentSocketResolverTests.moshManagementOptionsDisableTTY",
+  "args": [
+   "refs",
+   "SSHAgentSocketResolverTests.moshManagementOptionsDisableTTY",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift:67"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxCLIArgumentParser.parseAuthSubcommand",
+  "args": [
+   "refs",
+   "CmuxCLIArgumentParser.parseAuthSubcommand",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/CmuxCLIArgumentParser.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/CmuxCLIArgumentParser.swift:67",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:39",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:40",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:41",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:42",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:43",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:51"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/CmuxCLIArgumentParser.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileHandleProcessPipeWritingTests.reportsClosedReader",
+  "args": [
+   "refs",
+   "FileHandleProcessPipeWritingTests.reportsClosedReader",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeWritingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeWritingTests.swift:30"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeWritingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowScreenshotRequest.make",
+  "args": [
+   "refs",
+   "WindowScreenshotRequest.make",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowCapture/WindowScreenshotRequest.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowCapture/WindowScreenshotRequest.swift:150",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowCaptureOutputNameTests.swift:47",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:102",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:122",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:130",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:138",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:144",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:145",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:153",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:156",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:162",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:170",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:173",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:179",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:185",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:24",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:25",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:30",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:43",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:51",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:58",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:65",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:7",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:84",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowScreenshotRequestTests.swift:97"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowCapture/WindowScreenshotRequest.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedFileAppendOpener.fileHandle",
+  "args": [
+   "refs",
+   "OwnedFileAppendOpener.fileHandle",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift:77",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/OwnedLogFile.swift:28",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:77"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerTests.capturesStdoutAndCleanExit",
+  "args": [
+   "refs",
+   "CommandRunnerTests.capturesStdoutAndCleanExit",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:10"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAdmissionAndModeTests.releaseIdentityAndDevelopmentSuffix",
+  "args": [
+   "refs",
+   "SSHPTYAdmissionAndModeTests.releaseIdentityAndDevelopmentSuffix",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTY/SSHPTYAdmissionAndModeTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTY/SSHPTYAdmissionAndModeTests.swift:8"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTY/SSHPTYAdmissionAndModeTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxGlaedaExecutionContract.encodeRequest",
+  "args": [
+   "refs",
+   "CmuxGlaedaExecutionContract.encodeRequest",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:99",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxGlaedaExecutionContractTests.swift:29"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.terminatesReplacementSpawnedByAuthenticationTermHandler",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.terminatesReplacementSpawnedByAuthenticationTermHandler",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:571"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileHandleProcessPipeReadingTests.partialDataPreservedOnFailure",
+  "args": [
+   "refs",
+   "FileHandleProcessPipeReadingTests.partialDataPreservedOnFailure",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift:45"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReconnectInputByteFilterClipboardTests.dropsClipboardReplySplitAcrossChunks",
+  "args": [
+   "refs",
+   "SSHPTYReconnectInputByteFilterClipboardTests.dropsClipboardReplySplitAcrossChunks",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift:20"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerDescriptorLifecycleTests.expectDescriptorsClosed",
+  "args": [
+   "refs",
+   "CommandRunnerDescriptorLifecycleTests.expectDescriptorsClosed",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:112",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:153",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:27",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:43",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:55",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:68",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:83"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunning.run",
+  "args": [
+   "refs",
+   "CommandRunning.run",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandRunning.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandRunning.swift:32",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandRunning.swift:51"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandRunning.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachRetryScriptBuilderTests.launchAcknowledgementTimeoutRetriesTheWholeAttachAttempt",
+  "args": [
+   "refs",
+   "SSHPTYAttachRetryScriptBuilderTests.launchAcknowledgementTimeoutRetriesTheWholeAttachAttempt",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxManagedThemeConfigFile.write",
+  "args": [
+   "refs",
+   "CmuxManagedThemeConfigFile.write",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift:47",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift:81",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:107",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:122",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:134"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MoshTerminalCommandBuilderTests.nonNumericPortUsesProxyMode",
+  "args": [
+   "refs",
+   "MoshTerminalCommandBuilderTests.nonNumericPortUsesProxyMode",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift:290"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxConfigSemanticValidatorTests.futureNotificationEvent",
+  "args": [
+   "refs",
+   "CmuxConfigSemanticValidatorTests.futureNotificationEvent",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSemanticValidatorTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSemanticValidatorTests.swift:200"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSemanticValidatorTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxAccentColorTests.observerResolvesOnceAndPostsOnlyOnChange",
+  "args": [
+   "refs",
+   "CmuxAccentColorTests.observerResolvesOnceAndPostsOnlyOnChange",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxAccentColorTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxAccentColorTests.swift:140"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxAccentColorTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarWorkspaceDragBlockResolverTests.selectedMemberExpandsToTheSelection",
+  "args": [
+   "refs",
+   "SidebarWorkspaceDragBlockResolverTests.selectedMemberExpandsToTheSelection",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceDragBlockResolverTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceDragBlockResolverTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceDragBlockResolverTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerTests.expectCompletes",
+  "args": [
+   "refs",
+   "CommandRunnerTests.expectCompletes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:193",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:63",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:81",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift:99"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-UserDefaultsChangeOnlyWritesTests.orderedStringArraysWriteOnlyOnChange",
+  "args": [
+   "refs",
+   "UserDefaultsChangeOnlyWritesTests.orderedStringArraysWriteOnlyOnChange",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UserDefaultsChangeOnlyWritesTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UserDefaultsChangeOnlyWritesTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UserDefaultsChangeOnlyWritesTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MainActorTaskStore.contains",
+  "args": [
+   "refs",
+   "MainActorTaskStore.contains",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorTaskStore.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorTaskStore.swift:105",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorTaskStoreTests.swift:174",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorTaskStoreTests.swift:176"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorTaskStore.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerDescriptorLifecycleTests.waitForFileContents",
+  "args": [
+   "refs",
+   "CommandRunnerDescriptorLifecycleTests.waitForFileContents",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:100",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:186"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileDescriptorLimitControllerTests.doesNotRewriteSufficientLimit",
+  "args": [
+   "refs",
+   "FileDescriptorLimitControllerTests.doesNotRewriteSufficientLimit",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift:158"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachReplaySuppressedBoundaryTests.failedValidationKeepsFullBudget",
+  "args": [
+   "refs",
+   "SSHPTYAttachReplaySuppressedBoundaryTests.failedValidationKeepsFullBudget",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplaySuppressedBoundaryTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplaySuppressedBoundaryTests.swift:56"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplaySuppressedBoundaryTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-GhosttyTerminalOptions.fontFamiliesChoosing",
+  "args": [
+   "refs",
+   "GhosttyTerminalOptions.fontFamiliesChoosing",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GhosttyTerminalOptions/GhosttyTerminalOptions.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GhosttyTerminalOptions/GhosttyTerminalOptions.swift:128",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift:122",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift:124",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift:125",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift:127"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GhosttyTerminalOptions/GhosttyTerminalOptions.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileHandleProcessPipeReadingTests.copiesAllBytes",
+  "args": [
+   "refs",
+   "FileHandleProcessPipeReadingTests.copiesAllBytes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift:78"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SentryNoiseFilter.isExpectedCLISocketTransportFailure",
+  "args": [
+   "refs",
+   "SentryNoiseFilter.isExpectedCLISocketTransportFailure",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:87",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:104",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:108",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:112",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:116",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:12",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:132",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:136",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:140",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:144",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:152",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:157",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:16",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:164",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:168",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:172",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:181",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:187",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:192",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:197",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:20",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:208",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:212",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:217",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:47",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:51",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:55",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:60",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:65",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:70",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:75",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SentryNoiseFilterTests.swift:8"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReconnectInputByteFilter.shouldStripCSIReply",
+  "args": [
+   "refs",
+   "SSHPTYReconnectInputByteFilter.shouldStripCSIReply",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift:311",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift:333"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarDropPlanner.edgeForPointer",
+  "args": [
+   "refs",
+   "SidebarDropPlanner.edgeForPointer",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift:166",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift:397",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift:54",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:316"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedFileAppendOpener.openDescriptor",
+  "args": [
+   "refs",
+   "OwnedFileAppendOpener.openDescriptor",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift:45",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift:78",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:42",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:54",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:64",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:73"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileSystem/OwnedFileAppendOpener.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHReconnectBudgetTests.unsetBudgetUsesTheFallbackWithoutComplaining",
+  "args": [
+   "refs",
+   "SSHReconnectBudgetTests.unsetBudgetUsesTheFallbackWithoutComplaining",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift:46"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxManagedThemeBlockTests.appliesToEmptyContents",
+  "args": [
+   "refs",
+   "CmuxManagedThemeBlockTests.appliesToEmptyContents",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:12"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxGhosttyConfigPathResolver.matchesChannelBundleIdentifier",
+  "args": [
+   "refs",
+   "CmuxGhosttyConfigPathResolver.matchesChannelBundleIdentifier",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift:148",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift:152"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-NSColorHexStringTests.includeAlphaAppendsAlphaByte",
+  "args": [
+   "refs",
+   "NSColorHexStringTests.includeAlphaAppendsAlphaByte",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift:20"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxConfigSchemaPathLookup.isDeclared",
+  "args": [
+   "refs",
+   "CmuxConfigSchemaPathLookup.isDeclared",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigValidation/CmuxConfigSchemaPathLookup.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigValidation/CmuxConfigSchemaPathLookup.swift:24",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:11",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:12",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:13",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:14",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:16",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:18",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:23",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:24",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:25",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigSchemaPathLookupTests.swift:26"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigValidation/CmuxConfigSchemaPathLookup.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarWorkspaceSelectionSyncPolicy.anchorIndexAfterWorkspaceReorder",
+  "args": [
+   "refs",
+   "SidebarWorkspaceSelectionSyncPolicy.anchorIndexAfterWorkspaceReorder",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Sidebar/SidebarWorkspaceSelectionSyncPolicy.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Sidebar/SidebarWorkspaceSelectionSyncPolicy.swift:86",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceSelectionAnchorPolicyTests.swift:37",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceSelectionAnchorPolicyTests.swift:54"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Sidebar/SidebarWorkspaceSelectionSyncPolicy.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandExecution.startCaptureReaders",
+  "args": [
+   "refs",
+   "CommandExecution.startCaptureReaders",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift:122",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift:174"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarWorkspaceSelectionAnchorPolicyTests.anchorWorkspaceIdReadsTheExistingAnchorIdentity",
+  "args": [
+   "refs",
+   "SidebarWorkspaceSelectionAnchorPolicyTests.anchorWorkspaceIdReadsTheExistingAnchorIdentity",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceSelectionAnchorPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceSelectionAnchorPolicyTests.swift:10"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarWorkspaceSelectionAnchorPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteRelayAuthentication.clientMAC",
+  "args": [
+   "refs",
+   "RemoteRelayAuthentication.clientMAC",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayAuthentication.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayAuthentication.swift:29",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift:70"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayAuthentication.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxCodexConfigEditorTests.installWithoutTrustEntriesReportsNoTrust",
+  "args": [
+   "refs",
+   "CmuxCodexConfigEditorTests.installWithoutTrustEntriesReportsNoTrust",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift:90"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteTmuxSessionCommandBuilderTests.createsIntegratedSession",
+  "args": [
+   "refs",
+   "RemoteTmuxSessionCommandBuilderTests.createsIntegratedSession",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxSessionCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxSessionCommandBuilderTests.swift:8"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxSessionCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingCaptionTrackTests.lookupFindsTheLatestOfManyOrderedAndOutOfOrderNotes",
+  "args": [
+   "refs",
+   "WindowRecordingCaptionTrackTests.lookupFindsTheLatestOfManyOrderedAndOutOfOrderNotes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingCaptionTrackTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingCaptionTrackTests.swift:86"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingCaptionTrackTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-GhosttyTerminalOptionsTests.changeConfigValues",
+  "args": [
+   "refs",
+   "GhosttyTerminalOptionsTests.changeConfigValues",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift:94"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/GhosttyTerminalOptionsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteTmuxCommandBuilderTests.withFakeTmux",
+  "args": [
+   "refs",
+   "RemoteTmuxCommandBuilderTests.withFakeTmux",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxCommandBuilderTests.swift:29",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxCommandBuilderTests.swift:47",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxCommandBuilderTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteTmuxCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxManagedThemeConfigFile.clear",
+  "args": [
+   "refs",
+   "CmuxManagedThemeConfigFile.clear",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift:63",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift:83",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:110",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:112"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MoshTerminalCommandBuilderTests.stagedBootstrapSurvivesMoshServerExec",
+  "args": [
+   "refs",
+   "MoshTerminalCommandBuilderTests.stagedBootstrapSurvivesMoshServerExec",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift:428"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-StringJavaScriptStringLiteralTests.emptyStringIsEmptyQuotes",
+  "args": [
+   "refs",
+   "StringJavaScriptStringLiteralTests.emptyStringIsEmptyQuotes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/String+JavaScriptStringLiteralTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/String+JavaScriptStringLiteralTests.swift:10"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/String+JavaScriptStringLiteralTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedMarkerFileReaderTests.refusesASymbolicLinkMarker",
+  "args": [
+   "refs",
+   "OwnedMarkerFileReaderTests.refusesASymbolicLinkMarker",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:150"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHReconnectBudgetTests.honorsWellFormedBudgetsSilently",
+  "args": [
+   "refs",
+   "SSHReconnectBudgetTests.honorsWellFormedBudgetsSilently",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift:19"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHReconnectBudgetTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.processLiveness",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.processLiveness",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:290",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:291",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:362",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:363",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:566",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:672",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:673",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:906",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:937"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarDropPlanner.shouldCollectWorkspaceDropTargets",
+  "args": [
+   "refs",
+   "SidebarDropPlanner.shouldCollectWorkspaceDropTargets",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift:234"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarDropPlanner.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WorkspaceHostLabelTests.explicitPort",
+  "args": [
+   "refs",
+   "WorkspaceHostLabelTests.explicitPort",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceHostLabelTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceHostLabelTests.swift:38"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WorkspaceHostLabelTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxCLIArgumentParserTests.honorsTerminator",
+  "args": [
+   "refs",
+   "CmuxCLIArgumentParserTests.honorsTerminator",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift:24"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCLIArgumentParserTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingFrameGeometry.adoptingCrop",
+  "args": [
+   "refs",
+   "WindowRecordingFrameGeometry.adoptingCrop",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift:224",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:209"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingFrameGeometryTests.aNonsenseQuantumIsTreatedAsOne",
+  "args": [
+   "refs",
+   "WindowRecordingFrameGeometryTests.aNonsenseQuantumIsTreatedAsOne",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:266"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileHandleProcessPipeReadingTests.endOfFileWhenWriterClosed",
+  "args": [
+   "refs",
+   "FileHandleProcessPipeReadingTests.endOfFileWhenWriterClosed",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift:22"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHStartupLaunchScriptsTests.preplacedSymlinkIsNotFollowed",
+  "args": [
+   "refs",
+   "SSHStartupLaunchScriptsTests.preplacedSymlinkIsNotFollowed",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift:92"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHStartupLaunchScriptsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHConnectionSharingOptionsTests.preservesCustomControlSettings",
+  "args": [
+   "refs",
+   "SSHConnectionSharingOptionsTests.preservesCustomControlSettings",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift:62"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachExitCodeClassifierTests.transientDescriptionsExitRetryable",
+  "args": [
+   "refs",
+   "SSHPTYAttachExitCodeClassifierTests.transientDescriptionsExitRetryable",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift:20"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedFileAppendOpenerTests.refusesAFIFOWithoutBlocking",
+  "args": [
+   "refs",
+   "OwnedFileAppendOpenerTests.refusesAFIFOWithoutBlocking",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:58"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandExecution.terminateRunningProcess",
+  "args": [
+   "refs",
+   "CommandExecution.terminateRunningProcess",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift:169",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift:212",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift:217"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/CommandExecution.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxCodexConfigEditorTests.crlfInstallUninstallRoundTripIsByteForByte",
+  "args": [
+   "refs",
+   "CmuxCodexConfigEditorTests.crlfInstallUninstallRoundTripIsByteForByte",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift:74"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxCodexConfigEditorTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachOutputProgress.finishPendingReplay",
+  "args": [
+   "refs",
+   "SSHPTYAttachOutputProgress.finishPendingReplay",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachOutputProgress.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachOutputProgress.swift:218",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachOutputProgress.swift:226",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachReplayOutputStream.swift:65",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeTests.swift:295",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeTests.swift:313",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayBoundTests.swift:163",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayBoundTests.swift:97"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachOutputProgress.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReplayOutputFilter.filter",
+  "args": [
+   "refs",
+   "SSHPTYReplayOutputFilter.filter",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReplayOutputFilter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachReplayOutputStream.swift:36",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachReplayOutputStream.swift:56",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYAttachReplayOutputStream.swift:64",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReplayOutputFilter.swift:56",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:18",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:32",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:33",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:46",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:69",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:82",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterClipboardTests.swift:83",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:23",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:45",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:56",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:65",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:66",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:78",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:79",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:90"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReplayOutputFilter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteRelayClientHandshake.perform",
+  "args": [
+   "refs",
+   "RemoteRelayClientHandshake.perform",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift:50",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift:73"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/RemoteRelay/RemoteRelayClientHandshake.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachReplayBoundTests.stalledReplayStreamDiscardsPartialCandidate",
+  "args": [
+   "refs",
+   "SSHPTYAttachReplayBoundTests.stalledReplayStreamDiscardsPartialCandidate",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayBoundTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayBoundTests.swift:123"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachReplayBoundTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarWorkspaceReorderDropResolver.groupBoundaryIndicator",
+  "args": [
+   "refs",
+   "SidebarWorkspaceReorderDropResolver.groupBoundaryIndicator",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:750",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:840"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-NSColorHexStringTests.alphaIsOmittedByDefault",
+  "args": [
+   "refs",
+   "NSColorHexStringTests.alphaIsOmittedByDefault",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift:25"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/NSColor+HexStringTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxAccentColor.cmuxBlue",
+  "args": [
+   "refs",
+   "CmuxAccentColor.cmuxBlue",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColor.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColor.swift:49",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColor.swift:62",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColor.swift:66"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColor.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MoshTerminalCommandBuilderTests.localMoshMissingFallsBack",
+  "args": [
+   "refs",
+   "MoshTerminalCommandBuilderTests.localMoshMissingFallsBack",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift:8"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-OwnedFileReplacerTests.replacesASymbolicLinkWithoutWritingThroughIt",
+  "args": [
+   "refs",
+   "OwnedFileReplacerTests.replacesASymbolicLinkWithoutWritingThroughIt",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift:117"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileSystem/OwnedFileAccessTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CommandRunnerDescriptorLifecycleTests.timeoutTerminatesAndClosesPipes",
+  "args": [
+   "refs",
+   "CommandRunnerDescriptorLifecycleTests.timeoutTerminatesAndClosesPipes",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift:59"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/CommandRunnerDescriptorLifecycleTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.preservesNonSSHFailureStatus",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.preservesNonSSHFailureStatus",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:30"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxAccentColorMode.parseSettingsFileValue",
+  "args": [
+   "refs",
+   "CmuxAccentColorMode.parseSettingsFileValue",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColorMode.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColorMode.swift:58",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxAccentColorTests.swift:88",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxAccentColorTests.swift:93"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Color/CmuxAccentColorMode.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileWatchDispatchSource.cancel",
+  "args": [
+   "refs",
+   "FileWatchDispatchSource.cancel",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:12",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:165",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:167",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:175",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:176",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:259",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift:274"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/FileWatcher.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.refusesAuthenticationRootWithMismatchedKnownParent",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.refusesAuthenticationRootWithMismatchedKnownParent",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:366"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxGlaedaExecutionContract.canonicalJSON",
+  "args": [
+   "refs",
+   "CmuxGlaedaExecutionContract.canonicalJSON",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:125",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:147",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:161",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:300",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift:308"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlaedaExecution/CmuxGlaedaExecutionContract.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-DarwinResourceSamplingTests.liveDescriptorTypesAreMeasured",
+  "args": [
+   "refs",
+   "DarwinResourceSamplingTests.liveDescriptorTypesAreMeasured",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift:118"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/DarwinResourceSamplingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FakeRelay.readLine",
+  "args": [
+   "refs",
+   "FakeRelay.readLine",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift:24",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift:73"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteRelayClientHandshakeTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-ProcessSnapshotServiceTests.scopeInstancesNeverShareAndSuccessorReleasesTheOldValue",
+  "args": [
+   "refs",
+   "ProcessSnapshotServiceTests.scopeInstancesNeverShareAndSuccessorReleasesTheOldValue",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:118"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxManagedThemeBlock.themeValue",
+  "args": [
+   "refs",
+   "CmuxManagedThemeBlock.themeValue",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeBlock.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeBlock.swift:67",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeConfigFile.swift:40",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:49",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:71",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/TerminalThemes/CmuxManagedThemeBlockTests.swift:72"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/TerminalThemes/CmuxManagedThemeBlock.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SentryNoiseFilter.isExpectedCLIProtocolLifecycleMessage",
+  "args": [
+   "refs",
+   "SentryNoiseFilter.isExpectedCLIProtocolLifecycleMessage",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:103",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:105",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:178",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:22",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift:68"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SentryNoiseFilter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-AtomicUInt64ValueTests.storesAndIncrements",
+  "args": [
+   "refs",
+   "AtomicUInt64ValueTests.storesAndIncrements",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicUInt64ValueTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicUInt64ValueTests.swift:6"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/AtomicUInt64ValueTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingFrameGeometry.planCrop",
+  "args": [
+   "refs",
+   "WindowRecordingFrameGeometry.planCrop",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift:95",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:155",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:172"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/WindowRecording/WindowRecordingFrameGeometry.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachExitCodeClassifierTests.managedRetryStatusSeparatesTransportPhases",
+  "args": [
+   "refs",
+   "SSHPTYAttachExitCodeClassifierTests.managedRetryStatusSeparatesTransportPhases",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift:109"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachExitCodeClassifierTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYOutputWriter.write",
+  "args": [
+   "refs",
+   "SSHPTYOutputWriter.write",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTY/SSHPTYOutputWriter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTY/SSHPTYOutputWriter.swift:45",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTY/SSHPTYOutputWriterTests.swift:20"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTY/SSHPTYOutputWriter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarDropPlannerPackageTests.ownGapIndicatorPaintsWhenNoOpSuppressionIsDisabled",
+  "args": [
+   "refs",
+   "SidebarDropPlannerPackageTests.ownGapIndicatorPaintsWhenNoOpSuppressionIsDisabled",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarDropPlannerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarDropPlannerTests.swift:589"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarDropPlannerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReplayOutputFilterTests.stripsQueryThatCrossesReplayBoundary",
+  "args": [
+   "refs",
+   "SSHPTYReplayOutputFilterTests.stripsQueryThatCrossesReplayBoundary",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:73"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.proxyConfigurationFailureTakesPrecedenceOverGenericTransportMarker",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.proxyConfigurationFailureTakesPrecedenceOverGenericTransportMarker",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:214"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHAgentSocketResolver.nonInteractiveOptions",
+  "args": [
+   "refs",
+   "SSHAgentSocketResolver.nonInteractiveOptions",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift:144",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift:157",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHAgentSocketResolverTests.swift:79"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-UnixSocketConnectProbeTests.refusesAListenerRunningAsAnotherUser",
+  "args": [
+   "refs",
+   "UnixSocketConnectProbeTests.refusesAListenerRunningAsAnotherUser",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UnixSocket/UnixSocketConnectProbeTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UnixSocket/UnixSocketConnectProbeTests.swift:14"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/UnixSocket/UnixSocketConnectProbeTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RecursivePathWatcher.flushThrottle",
+  "args": [
+   "refs",
+   "RecursivePathWatcher.flushThrottle",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/RecursivePathWatcher.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/RecursivePathWatcher.swift:235",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/RecursivePathWatcher.swift:239"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/FileWatch/RecursivePathWatcher.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MoshTerminalCommandBuilderTests.remoteProbeFailureFallsBack",
+  "args": [
+   "refs",
+   "MoshTerminalCommandBuilderTests.remoteProbeFailureFallsBack",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift:55"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/MoshTerminalCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.mapsAddressQualifiedConnectionResetToRetryableStatus",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.mapsAddressQualifiedConnectionResetToRetryableStatus",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:115"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteBootstrapStagingCommandBuilderTests.run",
+  "args": [
+   "refs",
+   "RemoteBootstrapStagingCommandBuilderTests.run",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:117",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:161",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:177",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:215",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:240",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:49",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:77"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarWorkspaceReorderDropResolver.renderedRootIndicator",
+  "args": [
+   "refs",
+   "SidebarWorkspaceReorderDropResolver.renderedRootIndicator",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:631",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:692",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift:819"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SidebarDrop/SidebarWorkspaceReorderDropResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-WindowRecordingFrameGeometryTests.anOddWidthSurvivesAStillButNotAnMP4Frame",
+  "args": [
+   "refs",
+   "WindowRecordingFrameGeometryTests.anOddWidthSurvivesAStillButNotAnMP4Frame",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift:247"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/WindowRecordingFrameGeometryTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReconnectInputByteFilterClipboardTests.deadlineDropsPartialClipboardReply",
+  "args": [
+   "refs",
+   "SSHPTYReconnectInputByteFilterClipboardTests.deadlineDropsPartialClipboardReply",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift:68"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterClipboardTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-POSIXShellWordTests.nonASCIIIsQuoted",
+  "args": [
+   "refs",
+   "POSIXShellWordTests.nonASCIIIsQuoted",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/POSIXShellWordTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/POSIXShellWordTests.swift:29"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/POSIXShellWordTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReplayOutputFilterTests.stripsAdditionalXTWINOPSReports",
+  "args": [
+   "refs",
+   "SSHPTYReplayOutputFilterTests.stripsAdditionalXTWINOPSReports",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift:49"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReplayOutputFilterTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-ProcessMemoryDiagnostics.family",
+  "args": [
+   "refs",
+   "ProcessMemoryDiagnostics.family",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessMemoryDiagnostics.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessMemoryDiagnostics.swift:107",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessMemoryDiagnostics.swift:53"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Process/ProcessMemoryDiagnostics.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHConnectionSharingOptionsTests.controlSettings",
+  "args": [
+   "refs",
+   "SSHConnectionSharingOptionsTests.controlSettings",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift:306",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift:474"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHConnectionSharingOptionsTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReconnectInputByteFilterTests.stopsFilteringAndForwardsPendingInputWhenNoContinuationArrives",
+  "args": [
+   "refs",
+   "SSHPTYReconnectInputByteFilterTests.stopsFilteringAndForwardsPendingInputWhenNoContinuationArrives",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterTests.swift:110"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileDescriptorLimitControllerTests.ignoresWriteFailures",
+  "args": [
+   "refs",
+   "FileDescriptorLimitControllerTests.ignoresWriteFailures",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift:103"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Process/FileDescriptorLimitControllerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxGhosttyConfigPathResolver.allowsReleaseFallback",
+  "args": [
+   "refs",
+   "CmuxGhosttyConfigPathResolver.allowsReleaseFallback",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift:146",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift:75"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/ConfigPaths/CmuxGhosttyConfigPathResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationRetryPolicyTests.restoresTerminalModesWhenTerminatingForegroundAuthenticationTree",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationRetryPolicyTests.restoresTerminalModesWhenTerminatingForegroundAuthenticationTree",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift:676"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationRetryPolicyTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteClientDeviceNameTests.keepsTheExistingRemoteLabelFormat",
+  "args": [
+   "refs",
+   "RemoteClientDeviceNameTests.keepsTheExistingRemoteLabelFormat",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteClientDeviceNameTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteClientDeviceNameTests.swift:12"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteClientDeviceNameTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-FileHandleProcessPipeReadingTests.wouldBlockWhenWriterOpenAndEmpty",
+  "args": [
+   "refs",
+   "FileHandleProcessPipeReadingTests.wouldBlockWhenWriterOpenAndEmpty",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/FileHandleProcessPipeReadingTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHControlSocketDirectoryTests.refusesRelativeHome",
+  "args": [
+   "refs",
+   "SSHControlSocketDirectoryTests.refusesRelativeHome",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHControlSocketDirectoryTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHControlSocketDirectoryTests.swift:78"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHControlSocketDirectoryTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationLaunchTests.readinessScript",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationLaunchTests.readinessScript",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:14",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:39",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:69",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:78"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYAttachRetryScriptBuilderTests.attachExitCodeMatchingLaunchTimeoutIsNotRetried",
+  "args": [
+   "refs",
+   "SSHPTYAttachRetryScriptBuilderTests.attachExitCodeMatchingLaunchTimeoutIsNotRetried",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift:99"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYAttachRetryScriptBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-GlobalFontMagnification.clamp",
+  "args": [
+   "refs",
+   "GlobalFontMagnification.clamp",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/EnvironmentValues+CmuxGlobalFontMagnification.swift:13",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift:126",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift:137",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift:172",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift:53"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/GlobalFontMagnification.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-RemoteBootstrapStagingCommandBuilderTests.reportsInstallerFailure",
+  "args": [
+   "refs",
+   "RemoteBootstrapStagingCommandBuilderTests.reportsInstallerFailure",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift:191"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/RemoteBootstrapStagingCommandBuilderTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHForegroundAuthenticationLaunchTests.run",
+  "args": [
+   "refs",
+   "SSHForegroundAuthenticationLaunchTests.run",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:112",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:16",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:45",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift:71"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHForegroundAuthenticationLaunchTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHAgentSocketResolver.isSSHYesValue",
+  "args": [
+   "refs",
+   "SSHAgentSocketResolver.isSSHYesValue",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift:195",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift:211"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHAgentSocketResolver.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SSHPTYReconnectInputByteFilter.finish",
+  "args": [
+   "refs",
+   "SSHPTYReconnectInputByteFilter.finish",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift:133",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift:160",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift:171",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SSHPTYReconnectInputByteFilterTests.swift:182"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/SSHPTYReconnectInputByteFilter.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MainActorDeferredActionScheduler.schedule",
+  "args": [
+   "refs",
+   "MainActorDeferredActionScheduler.schedule",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorDeferredActionScheduler.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorDeferredActionScheduler.swift:39",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorDeferredActionSchedulerTests.swift:16",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorDeferredActionSchedulerTests.swift:34",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorDeferredActionSchedulerTests.swift:41",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorDeferredActionSchedulerTests.swift:58",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorDeferredActionSchedulerTests.swift:60"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Sources/CmuxFoundation/Concurrency/MainActorDeferredActionScheduler.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-SidebarTabDropIndicatorPredicateEmptyAreaTests.ReturnsFalseWhenIndicatorTargetsNonLastRowBottomEdge",
+  "args": [
+   "refs",
+   "SidebarTabDropIndicatorPredicateEmptyAreaTests.ReturnsFalseWhenIndicatorTargetsNonLastRowBottomEdge",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift:343"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/SidebarTabDropIndicatorPredicateTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-MainActorCoalescingDeadlineTimerTests.cancellationDisarmsTimerAndAllowsSuccessor",
+  "args": [
+   "refs",
+   "MainActorCoalescingDeadlineTimerTests.cancellationDisarmsTimerAndAllowsSuccessor",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorCoalescingDeadlineTimerTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorCoalescingDeadlineTimerTests.swift:9"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/Concurrency/MainActorCoalescingDeadlineTimerTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-ProcessSnapshotServiceTests.cancelledPeerDoesNotCancelSurvivor",
+  "args": [
+   "refs",
+   "ProcessSnapshotServiceTests.cancelledPeerDoesNotCancelSurvivor",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift:68"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/ProcessSnapshotServiceTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ },
+ {
+  "id": "termik-method-CmuxConfigLinesTests.splitsCROnlyBody",
+  "args": [
+   "refs",
+   "CmuxConfigLinesTests.splitsCROnlyBody",
+   "--in",
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigLinesTests.swift",
+   "Packages/macOS/CmuxFoundation"
+  ],
+  "gold": [
+   "Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigLinesTests.swift:44"
+  ],
+  "note": "method Packages/macOS/CmuxFoundation/Tests/CmuxFoundationTests/CmuxConfigLinesTests.swift; sourcekit-lsp references within Packages/macOS/CmuxFoundation"
+ }
+]

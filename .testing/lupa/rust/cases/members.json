@@ -1,0 +1,3053 @@
+[
+ {
+  "id": "termik-method-WriteDeadline.write",
+  "args": [
+   "refs",
+   "WriteDeadline.write",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:1205",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:1593",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:614"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.managed_machine",
+  "args": [
+   "refs",
+   "App.managed_machine",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:18132",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18146",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18161",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18175",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18190",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18208",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18222",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18258",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18266",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18279",
+   "cmux-tui/crates/cmux-tui/src/app.rs:24151"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.process_id",
+  "args": [
+   "refs",
+   "Surface.process_id",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28525",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:33718",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:33739",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:310",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13256",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13259",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13261",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5825"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-UnixWorkspaceRoot.resolve_directory",
+  "args": [
+   "refs",
+   "UnixWorkspaceRoot.resolve_directory",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs:301",
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs:322",
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs:375"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/path.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PtyTerminalRuntime.observe_terminal_output",
+  "args": [
+   "refs",
+   "PtyTerminalRuntime.observe_terminal_output",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:1566",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2725",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3303",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4937"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ActionMetadata.workspace_ownership",
+  "args": [
+   "refs",
+   "ActionMetadata.workspace_ownership",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/config.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/config.rs:1853",
+   "cmux-tui/crates/cmux-tui/src/config.rs:2318",
+   "cmux-tui/crates/cmux-tui/src/config.rs:2327"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/config.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.size_of_rect",
+  "args": [
+   "refs",
+   "App.size_of_rect",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:17891",
+   "cmux-tui/crates/cmux-tui/src/app.rs:17899",
+   "cmux-tui/crates/cmux-tui/src/app.rs:17988",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18024",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18053",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18101",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18514"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.mutate_terminal_sizing",
+  "args": [
+   "refs",
+   "Mux.mutate_terminal_sizing",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9247",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9290",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9306",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9327",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9384",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9428",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9448",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9502",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9527",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9552",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9570",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9812",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:9901"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-KeyEncoder.sync_from_terminal",
+  "args": [
+   "refs",
+   "KeyEncoder.sync_from_terminal",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/key.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:419",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:878",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:12689",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2147",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21031",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21075",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21094",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:499",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:517",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:542",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:573",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:618",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:770",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:794",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:812",
+   "cmux-tui/crates/cmux-tui/src/keys.rs:878",
+   "cmux-tui/crates/ghostty-vt/src/key.rs:232",
+   "cmux-tui/crates/ghostty-vt/src/key.rs:394",
+   "cmux-tui/crates/ghostty-vt/src/key.rs:437",
+   "cmux-tui/crates/ghostty-vt/src/key.rs:442"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/key.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ProcessCompletion.new",
+  "args": [
+   "refs",
+   "ProcessCompletion.new",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1303",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1466",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2647",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2657",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2674",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:697"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/process.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.workspace_creation_policy",
+  "args": [
+   "refs",
+   "App.workspace_creation_policy",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:10361",
+   "cmux-tui/crates/cmux-tui/src/app.rs:10369",
+   "cmux-tui/crates/cmux-tui/src/app.rs:10379",
+   "cmux-tui/crates/cmux-tui/src/app.rs:16480",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18071",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18092",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18108",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21255",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21286",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21307"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RemoteSession.accepts_event_in_surface_scope",
+  "args": [
+   "refs",
+   "RemoteSession.accepts_event_in_surface_scope",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:2226",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:2289"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/remote.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Terminal.selection_point",
+  "args": [
+   "refs",
+   "Terminal.selection_point",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:3313",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:3314",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:3318"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/terminal.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.frame_only_browser_update",
+  "args": [
+   "refs",
+   "App.frame_only_browser_update",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:13946",
+   "cmux-tui/crates/cmux-tui/src/app.rs:15748"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RelayCircuitLink.publish_terminal",
+  "args": [
+   "refs",
+   "RelayCircuitLink.publish_terminal",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:530",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:535",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:789",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:799",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:826",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:827"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/provider/relay.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.reset_unconfirmed_graphics",
+  "args": [
+   "refs",
+   "App.reset_unconfirmed_graphics",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:14260",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14278",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14283"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.pane_neighbor",
+  "args": [
+   "refs",
+   "Mux.pane_neighbor",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:16910",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28371",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28372",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28373",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28605",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28606",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28625",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28626",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13220",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13233"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.advance_expired_durable_notice",
+  "args": [
+   "refs",
+   "App.advance_expired_durable_notice",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:11065",
+   "cmux-tui/crates/cmux-tui/src/app.rs:12055",
+   "cmux-tui/crates/cmux-tui/src/app.rs:46377",
+   "cmux-tui/crates/cmux-tui/src/app.rs:46380"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-StackPanes.retain",
+  "args": [
+   "refs",
+   "StackPanes.retain",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/model.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/model.rs:348",
+   "cmux-tui/crates/cmux-tui-core/src/model.rs:83"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/model.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserSurface.mark_pending_authority_failed_locked",
+  "args": [
+   "refs",
+   "BrowserSurface.mark_pending_authority_failed_locked",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2701",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:3478"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.terminal_idle_policy",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.terminal_idle_policy",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux/idle_close.rs:119",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/idle_policy_store.rs:84",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6098",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6099",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6106",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6130"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/idle_policy_store.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RenderFrame.row_runs",
+  "args": [
+   "refs",
+   "RenderFrame.row_runs",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/render.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2297",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:11157",
+   "cmux-tui/crates/cmux-tui-core/src/sidebar_resource.rs:210",
+   "cmux-tui/crates/ghostty-vt/src/render.rs:222",
+   "cmux-tui/crates/ghostty-vt/tests/render_v7.rs:119",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:167"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/render.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-DaemonServices.serve_stream",
+  "args": [
+   "refs",
+   "DaemonServices.serve_stream",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/services.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/services.rs:2881",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3027",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3157",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3267",
+   "cmux-tui/crates/cmux-remote/src/services.rs:381",
+   "cmux-tui/crates/cmux-remote/src/services.rs:421"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/services.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-KittyInFlightTracker.clear_loading",
+  "args": [
+   "refs",
+   "KittyInFlightTracker.clear_loading",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/kitty.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/ghostty-vt/src/kitty.rs:116",
+   "cmux-tui/crates/ghostty-vt/src/kitty.rs:266",
+   "cmux-tui/crates/ghostty-vt/src/kitty.rs:270"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/kitty.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-HostAttachment.exit_record_path",
+  "args": [
+   "refs",
+   "HostAttachment.exit_record_path",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:18682",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3078",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:1832"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-EnsureFixture.run",
+  "args": [
+   "refs",
+   "EnsureFixture.run",
+   "--in",
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs:42",
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs:74",
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs:80",
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs:84",
+   "cmux-tui/crates/cmux-tui/tests/detached_owner.rs:88"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/tests/detached_owner.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-SurfaceHandle.encode_mouse_if_snapshot",
+  "args": [
+   "refs",
+   "SurfaceHandle.encode_mouse_if_snapshot",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:16896",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:2452"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/mod.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ViewportPaneAreaProjection.clear",
+  "args": [
+   "refs",
+   "ViewportPaneAreaProjection.clear",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:12171",
+   "cmux-tui/crates/cmux-tui/src/app.rs:13910",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14715",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14851",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14919",
+   "cmux-tui/crates/cmux-tui/src/app.rs:6959"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.events_after",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.events_after",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:7266",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs:3632"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-DaemonServices.run_local",
+  "args": [
+   "refs",
+   "DaemonServices.run_local",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/services.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/services.rs:303",
+   "cmux-tui/crates/cmux-remote/src/services.rs:316",
+   "cmux-tui/crates/cmux-remote/src/services.rs:319"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/services.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserSurface.settle_navigation_transition",
+  "args": [
+   "refs",
+   "BrowserSurface.settle_navigation_transition",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:3912",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:3928"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-JournalIngressCompletion.deadline",
+  "args": [
+   "refs",
+   "JournalIngressCompletion.deadline",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:317",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:339"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MuxEventMailbox.push",
+  "args": [
+   "refs",
+   "MuxEventMailbox.push",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/event_bus.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/event_bus.rs:111",
+   "cmux-tui/crates/cmux-tui-core/src/event_bus.rs:130",
+   "cmux-tui/crates/cmux-tui-core/src/event_bus.rs:230"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/event_bus.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceMutation.new",
+  "args": [
+   "refs",
+   "WorkspaceMutation.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11427",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21297",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21305",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21336",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21351",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21630",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:21669",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22097",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22099",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22118",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22173",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22203",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22226",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22359",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22797",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22855",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:22915",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:23013",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:23031",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:23191",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:24930",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:24972",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:25460",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:25934",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:25956",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:25998",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26058",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26065",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26103",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26174",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26213",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:26290",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:27913",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:27963",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:27971",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:29049",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:29098",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:29125",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:29178",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:29223",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31321",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31339",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31474",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31687",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31829",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32217",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32633",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32649",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32702",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32720",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32774",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32844",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:33112",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:6753",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:4487",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:4517",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:6825",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router.rs:1427",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router.rs:1458",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/auxiliary.rs:565",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:1237",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/session.rs:157",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/topology.rs:421",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:10190",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:10390",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24380",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24440",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24466",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs:286",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:1049",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/public_projection_store.rs:1060",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/public_projection_store.rs:722",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/public_projection_store.rs:937",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1728",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1753",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1868",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1886",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1899",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1942",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:1980",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2017",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2056",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2070",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2094",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:227",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2285",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2391",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2560",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2574",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2584",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2608",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2649",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2690",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2712",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2742",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2773",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2837",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2975",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:30",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3071",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3146",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3277",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3295",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3372",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3407",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3475",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3488",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3501",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3517",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3549",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3579",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3590",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3626",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3661",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3674",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3698",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3713",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3733",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3752",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3768",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3792",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3813",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3829",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3856",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3913",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:3992",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4014",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4030",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4050",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4106",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4116",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4133",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4147",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4169",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4181",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4211",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4223",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4398",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4455",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:4690",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:5149",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:5189",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6073",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:6126",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:1643",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:431"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.ghostty_mouse_mods",
+  "args": [
+   "refs",
+   "App.ghostty_mouse_mods",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:16832",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21714",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21871",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22136",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22220",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22505"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ContextMenu.captured_resource",
+  "args": [
+   "refs",
+   "ContextMenu.captured_resource",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:12679",
+   "cmux-tui/crates/cmux-tui/src/app.rs:19982",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22698",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22765",
+   "cmux-tui/crates/cmux-tui/src/app.rs:43473",
+   "cmux-tui/crates/cmux-tui/src/app.rs:43507",
+   "cmux-tui/crates/cmux-tui/src/app.rs:43555",
+   "cmux-tui/crates/cmux-tui/src/app.rs:45056",
+   "cmux-tui/crates/cmux-tui/src/app.rs:5060"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Platform.from_uname",
+  "args": [
+   "refs",
+   "Platform.from_uname",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs:544",
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs:915"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PtyCommand.env",
+  "args": [
+   "refs",
+   "PtyCommand.env",
+   "--in",
+   "cmux-tui/crates/cmux-pty/src/lib.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/chatmux-relay/src/pty_deps.rs:639",
+   "cmux-tui/crates/cmux-pty/src/lib.rs:139",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1397",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1399",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1401",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2501",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2507",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2509",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:5420",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:5423",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:5425",
+   "cmux-tui/crates/cmux-tui/tests/cli.rs:2856",
+   "cmux-tui/crates/cmux-tui/tests/cli.rs:2860"
+  ],
+  "note": "method cmux-tui/crates/cmux-pty/src/lib.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-AgentState.as_str",
+  "args": [
+   "refs",
+   "AgentState.as_str",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/journal_reducers.rs:602",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:1120",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11434",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11476",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11626",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11707",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11773",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:6763",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:6817",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/auxiliary.rs:77",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:11025",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:12745",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:1072"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-LockStats.new",
+  "args": [
+   "refs",
+   "LockStats.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/diagnostics.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/diagnostics.rs:177",
+   "cmux-tui/crates/cmux-tui-core/src/diagnostics.rs:580",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:107"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/diagnostics.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MachineAgentMessages.retrying_message",
+  "args": [
+   "refs",
+   "MachineAgentMessages.retrying_message",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/localization.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/localization.rs:191",
+   "cmux-tui/crates/cmux-tui/src/localization.rs:2825",
+   "cmux-tui/crates/cmux-tui/src/localization.rs:2833",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/mod.rs:290"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/localization.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Scope.build",
+  "args": [
+   "refs",
+   "Scope.build",
+   "--in",
+   "cmux-tui/crates/chatmux-relay/src/workspace.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/chatmux-relay/src/watch.rs:683",
+   "cmux-tui/crates/chatmux-relay/src/workspace.rs:2566",
+   "cmux-tui/crates/chatmux-relay/src/workspace.rs:2626",
+   "cmux-tui/crates/chatmux-relay/src/workspace.rs:2686",
+   "cmux-tui/crates/chatmux-relay/src/workspace.rs:285"
+  ],
+  "note": "method cmux-tui/crates/chatmux-relay/src/workspace.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Driver.process_listeners",
+  "args": [
+   "refs",
+   "Driver.process_listeners",
+   "--in",
+   "cmux-tui/crates/cmux-wg/src/net.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-wg/src/net.rs:726",
+   "cmux-tui/crates/cmux-wg/src/net.rs:883"
+  ],
+  "note": "method cmux-tui/crates/cmux-wg/src/net.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RenderService.new_with_outbound_budgets",
+  "args": [
+   "refs",
+   "RenderService.new_with_outbound_budgets",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15242",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2372",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2380",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2383"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserSurface.begin_latest_navigation_frame_transition",
+  "args": [
+   "refs",
+   "BrowserSurface.begin_latest_navigation_frame_transition",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5040",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5103",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5162",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5192"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Keys.apply",
+  "args": [
+   "refs",
+   "Keys.apply",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/config.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/config.rs:2914",
+   "cmux-tui/crates/cmux-tui/src/config.rs:3029",
+   "cmux-tui/crates/cmux-tui/src/config.rs:3949",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8837",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8840",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8888",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8898",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8925",
+   "cmux-tui/crates/cmux-tui/src/config.rs:8949",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9035",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9115",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9136",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9152",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9163",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9206",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9221",
+   "cmux-tui/crates/cmux-tui/src/config.rs:9654"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/config.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RemoteSession.clear_history_or_send_key_classified",
+  "args": [
+   "refs",
+   "RemoteSession.clear_history_or_send_key_classified",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:1980",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:3044",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:5821",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:5890",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:5917"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/remote.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceOwnershipSource.inventory_name",
+  "args": [
+   "refs",
+   "WorkspaceOwnershipSource.inventory_name",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/config.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/config.rs:1776",
+   "cmux-tui/crates/cmux-tui/src/config.rs:1881"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/config.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.paste",
+  "args": [
+   "refs",
+   "App.paste",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:16330",
+   "cmux-tui/crates/cmux-tui/src/app.rs:21158"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserInputEvent.retained_bytes",
+  "args": [
+   "refs",
+   "BrowserInputEvent.retained_bytes",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1259",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:423",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:79",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:817"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/browser_input.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BoundedOutbound.push_regular",
+  "args": [
+   "refs",
+   "BoundedOutbound.push_regular",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15550",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15643",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15706",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20201",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3358",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3912"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.current_browser_content",
+  "args": [
+   "refs",
+   "App.current_browser_content",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:22005",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22471",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23224",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23387"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ProcessStore.contains_key",
+  "args": [
+   "refs",
+   "ProcessStore.contains_key",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1808",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1994",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2004",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:2036",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:766",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:776"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/process.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.rollback_mouse_motion_for_enqueue_failure",
+  "args": [
+   "refs",
+   "App.rollback_mouse_motion_for_enqueue_failure",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:22325",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22333",
+   "cmux-tui/crates/cmux-tui/src/app.rs:34708",
+   "cmux-tui/crates/cmux-tui/src/app.rs:34716"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ImagePasteStore.disconnect",
+  "args": [
+   "refs",
+   "ImagePasteStore.disconnect",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/image_paste.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/image_paste.rs:260",
+   "cmux-tui/crates/cmux-tui-core/src/image_paste_tests.rs:174",
+   "cmux-tui/crates/cmux-tui-core/src/image_paste_tests.rs:39",
+   "cmux-tui/crates/cmux-tui-core/src/image_paste_tests.rs:82",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:6181"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/image_paste.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Harness.connected",
+  "args": [
+   "refs",
+   "Harness.connected",
+   "--in",
+   "cmux-tui/crates/chatmux-relay/src/pty.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/chatmux-relay/src/pty.rs:2447",
+   "cmux-tui/crates/chatmux-relay/src/pty.rs:2807"
+  ],
+  "note": "method cmux-tui/crates/chatmux-relay/src/pty.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.forward_pty_mouse_at",
+  "args": [
+   "refs",
+   "App.forward_pty_mouse_at",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:22041",
+   "cmux-tui/crates/cmux-tui/src/app.rs:32346",
+   "cmux-tui/crates/cmux-tui/src/app.rs:32355",
+   "cmux-tui/crates/cmux-tui/src/app.rs:32364"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.view_scrollbar",
+  "args": [
+   "refs",
+   "Surface.view_scrollbar",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:10877",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:2575",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:2599",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:2627",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:25163",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:25186",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5202",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:7699",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:7702",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:7703",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:7715",
+   "cmux-tui/crates/cmux-tui/src/app.rs:34466",
+   "cmux-tui/crates/cmux-tui/src/app.rs:34471",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:2563",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:2626"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ServerConnection.receive",
+  "args": [
+   "refs",
+   "ServerConnection.receive",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2011",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2021",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2139",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2267",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs:2801",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs:2873",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs:3120",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs:416",
+   "cmux-tui/crates/cmux-remote/src/provider/iroh.rs:2025",
+   "cmux-tui/crates/cmux-remote/src/service.rs:106",
+   "cmux-tui/crates/cmux-remote/tests/direct_ws_e2e.rs:116",
+   "cmux-tui/crates/cmux-remote/tests/direct_ws_e2e.rs:198",
+   "cmux-tui/crates/cmux-remote/tests/direct_wss_e2e.rs:298",
+   "cmux-tui/crates/cmux-remote/tests/interactive_latency_e2e.rs:357",
+   "cmux-tui/crates/cmux-remote/tests/relay_e2e.rs:252",
+   "cmux-tui/crates/cmux-remote/tests/wireguard_dial_e2e.rs:119",
+   "cmux-tui/crates/cmux-remote/tests/wireguard_hub_e2e.rs:141"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/daemon.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.spawn_for_test_with_resource_identity_at_cell_pixels",
+  "args": [
+   "refs",
+   "Surface.spawn_for_test_with_resource_identity_at_cell_pixels",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4276",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4292",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4310",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4320"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ClientConnection.receive",
+  "args": [
+   "refs",
+   "ClientConnection.receive",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/connection.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2153",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2200",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2248",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:2277",
+   "cmux-tui/crates/cmux-remote/src/connection.rs:415",
+   "cmux-tui/crates/cmux-remote/src/daemon.rs:2723",
+   "cmux-tui/crates/cmux-remote/src/provider/iroh.rs:2037",
+   "cmux-tui/crates/cmux-remote/src/service.rs:78",
+   "cmux-tui/crates/cmux-remote/tests/direct_ws_e2e.rs:121",
+   "cmux-tui/crates/cmux-remote/tests/direct_wss_e2e.rs:303",
+   "cmux-tui/crates/cmux-remote/tests/interactive_latency_e2e.rs:405",
+   "cmux-tui/crates/cmux-remote/tests/relay_e2e.rs:254",
+   "cmux-tui/crates/cmux-remote/tests/wireguard_dial_e2e.rs:125",
+   "cmux-tui/crates/cmux-remote/tests/wireguard_hub_e2e.rs:147"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/connection.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-NonblockingFdGuard.restore",
+  "args": [
+   "refs",
+   "NonblockingFdGuard.restore",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/pty_write.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/pty_write.rs:102",
+   "cmux-tui/crates/cmux-tui-core/src/pty_write.rs:66",
+   "cmux-tui/crates/cmux-tui-core/src/pty_write.rs:89"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/pty_write.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.record_agent_hook_pending_failure",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.record_agent_hook_pending_failure",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:733",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:817",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:877"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Session.move_tab",
+  "args": [
+   "refs",
+   "Session.move_tab",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:3966",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:2147"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/mod.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-OutboundWriter.send_text",
+  "args": [
+   "refs",
+   "OutboundWriter.send_text",
+   "--in",
+   "cmux-tui/crates/cmux-tui-cdp/src/client.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-cdp/src/client.rs:1524",
+   "cmux-tui/crates/cmux-tui-cdp/src/client.rs:1528",
+   "cmux-tui/crates/cmux-tui-cdp/src/client.rs:1545",
+   "cmux-tui/crates/cmux-tui-cdp/src/client.rs:2229"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-cdp/src/client.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.active_surface_handle",
+  "args": [
+   "refs",
+   "App.active_surface_handle",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:17054",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18562",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20864"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.effect_add_screen",
+  "args": [
+   "refs",
+   "Mux.effect_add_screen",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:4134",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:4708"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.refresh_size_state_label",
+  "args": [
+   "refs",
+   "App.refresh_size_state_label",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:15789",
+   "cmux-tui/crates/cmux-tui/src/app.rs:24381"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-OrderedSession.reclaim_surface_size",
+  "args": [
+   "refs",
+   "OrderedSession.reclaim_surface_size",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:17332",
+   "cmux-tui/crates/cmux-tui/src/app.rs:3280"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Navigation.follow_focused_cwd",
+  "args": [
+   "refs",
+   "Navigation.follow_focused_cwd",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/mod.rs:120",
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs:29",
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs:68",
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs:73",
+   "cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs:79"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/sidebar_files/navigation.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PriorityReceivers.try_receive_lane",
+  "args": [
+   "refs",
+   "PriorityReceivers.try_receive_lane",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/link.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/link.rs:432",
+   "cmux-tui/crates/cmux-remote/src/link.rs:445",
+   "cmux-tui/crates/cmux-remote/src/link.rs:455"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/link.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MachineUiState.managed_workspace",
+  "args": [
+   "refs",
+   "MachineUiState.managed_workspace",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:18304",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18391",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18416",
+   "cmux-tui/crates/cmux-tui/src/machine.rs:865"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Dialer.name",
+  "args": [
+   "refs",
+   "Dialer.name",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/provider/dial.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/provider/dial.rs:117",
+   "cmux-tui/crates/cmux-remote/src/provider/dial.rs:171",
+   "cmux-tui/crates/cmux-remote/src/provider/dial.rs:39",
+   "cmux-tui/crates/cmux-remote/src/provider/dial.rs:67"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/provider/dial.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MachineUiState.recoverable_workspaces",
+  "args": [
+   "refs",
+   "MachineUiState.recoverable_workspaces",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:10392",
+   "cmux-tui/crates/cmux-tui/src/app.rs:12536",
+   "cmux-tui/crates/cmux-tui/src/app.rs:12601",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18448",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18470",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18495",
+   "cmux-tui/crates/cmux-tui/src/app.rs:19580",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20592",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22933",
+   "cmux-tui/crates/cmux-tui/src/app.rs:24204",
+   "cmux-tui/crates/cmux-tui/src/machine.rs:869",
+   "cmux-tui/crates/cmux-tui/src/ui/sidebar.rs:504"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-VtBoundaryTracker.pending_replay",
+  "args": [
+   "refs",
+   "VtBoundaryTracker.pending_replay",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:2217",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:963"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/terminal.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserSurface.require_navigation_session",
+  "args": [
+   "refs",
+   "BrowserSurface.require_navigation_session",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2833",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5101",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5161",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5191",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:5810"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Envelope.new",
+  "args": [
+   "refs",
+   "Envelope.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs:151",
+   "cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs:600",
+   "cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs:641",
+   "cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs:767",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/protocol_io.rs:124",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:1205",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:1593",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:1970",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:361"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-machine-agent-protocol/src/lib.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-JournalWriterCompletion.wait_until",
+  "args": [
+   "refs",
+   "JournalWriterCompletion.wait_until",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:378",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:872"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PendingRemoteRequests.insert",
+  "args": [
+   "refs",
+   "PendingRemoteRequests.insert",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:1071",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:2861",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:6966",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:6976"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/remote.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-GenerationState.handle_command",
+  "args": [
+   "refs",
+   "GenerationState.handle_command",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:859",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs:929"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine_agent/runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserSurface.resize_geometry",
+  "args": [
+   "refs",
+   "BrowserSurface.resize_geometry",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2261",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2288",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2432",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:2449"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RemoteSurface.has_browser_frame",
+  "args": [
+   "refs",
+   "RemoteSurface.has_browser_frame",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:2729",
+   "cmux-tui/crates/cmux-tui/src/session/remote.rs:869"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/remote.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RelayCircuitLink.new",
+  "args": [
+   "refs",
+   "RelayCircuitLink.new",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:1835",
+   "cmux-tui/crates/cmux-remote/src/provider/relay.rs:465"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/provider/relay.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.set_split_ratio_checked",
+  "args": [
+   "refs",
+   "Mux.set_split_ratio_checked",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:16579",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:16583",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28728",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28734",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28736",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:28807",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:30707",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:30734",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:30752",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:30788",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13179",
+   "cmux-tui/crates/cmux-tui/src/session/mod.rs:1824"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ShortcutHelp.max_scroll",
+  "args": [
+   "refs",
+   "ShortcutHelp.max_scroll",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:14429",
+   "cmux-tui/crates/cmux-tui/src/app.rs:19761",
+   "cmux-tui/crates/cmux-tui/src/app.rs:5640",
+   "cmux-tui/crates/cmux-tui/src/app.rs:5646"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ClosedStreams.insert_on",
+  "args": [
+   "refs",
+   "ClosedStreams.insert_on",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/service.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/service.rs:1010",
+   "cmux-tui/crates/cmux-remote/src/service.rs:1068",
+   "cmux-tui/crates/cmux-remote/src/service.rs:1224",
+   "cmux-tui/crates/cmux-remote/src/service.rs:1232",
+   "cmux-tui/crates/cmux-remote/src/service.rs:1265",
+   "cmux-tui/crates/cmux-remote/src/service.rs:157",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2756",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2784",
+   "cmux-tui/crates/cmux-remote/src/service.rs:591",
+   "cmux-tui/crates/cmux-remote/src/service.rs:628",
+   "cmux-tui/crates/cmux-remote/src/service.rs:823",
+   "cmux-tui/crates/cmux-remote/src/service.rs:895"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/service.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.live_terminal_host_id",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.live_terminal_host_id",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:5890",
+   "cmux-tui/crates/cmux-tui-core/src/mux/terminal_directory.rs:35",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:1364",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:1386"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.sidebar_plugin_status",
+  "args": [
+   "refs",
+   "Mux.sidebar_plugin_status",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:12253",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/auxiliary.rs:1024",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/auxiliary.rs:946",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/auxiliary.rs:952"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Terminal.refresh_mouse_mode_revision",
+  "args": [
+   "refs",
+   "Terminal.refresh_mouse_mode_revision",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:2188",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:2225"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/terminal.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.tick_sidebar_files",
+  "args": [
+   "refs",
+   "App.tick_sidebar_files",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:11010",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14644"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MachineUiState.set_connection_phases",
+  "args": [
+   "refs",
+   "MachineUiState.set_connection_phases",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/machine.rs:741",
+   "cmux-tui/crates/cmux-tui/src/machine_provider_runtime.rs:1447",
+   "cmux-tui/crates/cmux-tui/src/machine_provider_runtime.rs:1912",
+   "cmux-tui/crates/cmux-tui/src/machine_provider_runtime.rs:450",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2769",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2896"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-SshCloudConnector.new",
+  "args": [
+   "refs",
+   "SshCloudConnector.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/machine_agent/mod.rs:114",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs:297",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs:324",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs:338",
+   "cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs:48"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine_agent/transport.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.prune_notification_reads",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.prune_notification_reads",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:11211",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs:1276"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/resource_store.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-InputClass.is_keyboard_or_paste",
+  "args": [
+   "refs",
+   "InputClass.is_keyboard_or_paste",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:216",
+   "cmux-tui/crates/cmux-tui/src/app.rs:25151",
+   "cmux-tui/crates/cmux-tui/src/app.rs:267"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceClient.begin_request_inner",
+  "args": [
+   "refs",
+   "WorkspaceClient.begin_request_inner",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/client.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/client.rs:262",
+   "cmux-tui/crates/cmux-remote/src/client.rs:276",
+   "cmux-tui/crates/cmux-remote/src/client.rs:299"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/client.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ConnectionSurfaceScheduler.start_dispatcher",
+  "args": [
+   "refs",
+   "ConnectionSurfaceScheduler.start_dispatcher",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3031",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3044"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-TicketAuthority.from_optional_secret",
+  "args": [
+   "refs",
+   "TicketAuthority.from_optional_secret",
+   "--in",
+   "cmux-tui/crates/cmux-relay/src/ticket.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-relay/src/relay.rs:216",
+   "cmux-tui/crates/cmux-relay/src/ticket.rs:58"
+  ],
+  "note": "method cmux-tui/crates/cmux-relay/src/ticket.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ServiceMultiplexer.shutdown",
+  "args": [
+   "refs",
+   "ServiceMultiplexer.shutdown",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/service.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/bridge.rs:958",
+   "cmux-tui/crates/cmux-remote/src/bridge.rs:959",
+   "cmux-tui/crates/cmux-remote/src/mux_client.rs:259",
+   "cmux-tui/crates/cmux-remote/src/mux_client.rs:260",
+   "cmux-tui/crates/cmux-remote/src/mux_client.rs:286",
+   "cmux-tui/crates/cmux-remote/src/mux_client.rs:287",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2042",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2736",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2776",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2802",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2856",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2915",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2941",
+   "cmux-tui/crates/cmux-remote/src/service.rs:2967",
+   "cmux-tui/crates/cmux-remote/src/service.rs:530",
+   "cmux-tui/crates/cmux-remote/src/services.rs:1861",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2174",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2175",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2333",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2334",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2378",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2379",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2443",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2444",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2586",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2587",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2711",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2712",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2850",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2851",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2980",
+   "cmux-tui/crates/cmux-remote/src/services.rs:2981",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3110",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3111",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3232",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3233",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3325",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3326",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3479",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3480",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3632",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3633",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3706",
+   "cmux-tui/crates/cmux-remote/src/services.rs:3707",
+   "cmux-tui/crates/cmux-remote/src/services.rs:392",
+   "cmux-tui/crates/cmux-remote/tests/forward_e2e.rs:379",
+   "cmux-tui/crates/cmux-remote/tests/multi_client_e2e.rs:453",
+   "cmux-tui/crates/cmux-remote/tests/multi_client_e2e.rs:497",
+   "cmux-tui/crates/cmux-remote/tests/multi_client_e2e.rs:544",
+   "cmux-tui/crates/cmux-remote/tests/pty_reconnect_e2e.rs:555",
+   "cmux-tui/crates/cmux-remote/tests/relay_e2e.rs:476",
+   "cmux-tui/crates/cmux-remote/tests/relay_e2e.rs:816",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:1740",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3713",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3714",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3753",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3754",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3790",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3791",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3826",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3827",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3872",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3873",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3934",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:3935",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4041",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4042",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4112",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4113",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4212",
+   "cmux-tui/crates/cmux-terminal-client/src/lib.rs:4213",
+   "cmux-tui/crates/cmux-tui/src/remote_browser_proxy.rs:1049",
+   "cmux-tui/crates/cmux-tui/src/remote_browser_proxy.rs:1050"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/service.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ResourceError.terminal_closed",
+  "args": [
+   "refs",
+   "ResourceError.terminal_closed",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:5672",
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs:1053"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/resource.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.open_rename_surface_prompt",
+  "args": [
+   "refs",
+   "App.open_rename_surface_prompt",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:20264",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20267",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20647"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.install_journal_failure_notifier_for_test",
+  "args": [
+   "refs",
+   "Mux.install_journal_failure_notifier_for_test",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:1800",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:1857",
+   "cmux-tui/crates/cmux-tui-core/src/journal_ingress.rs:1901",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:5991"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.append_journal_ingress_events_with_deadline",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.append_journal_ingress_events_with_deadline",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:6119",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/journal_extensions.rs:824"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/journal_extensions.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.copy_text_to_clipboard",
+  "args": [
+   "refs",
+   "App.copy_text_to_clipboard",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:19080",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20502",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23459",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23472",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23478",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23482",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23498"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-CapabilityToken.from_bytes",
+  "args": [
+   "refs",
+   "CapabilityToken.from_bytes",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/services.rs:745",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host.rs:137",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host.rs:316",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host.rs:498",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host.rs:720",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:10422",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:10454",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:2782",
+   "cmux-tui/crates/cmux-tui/tests/terminal_host_mode.rs:25",
+   "cmux-tui/crates/cmux-tui/tests/terminal_host_recovery.rs:4462"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_host.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.write_paste_bounded",
+  "args": [
+   "refs",
+   "Surface.write_paste_bounded",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server/image_paste.rs:60",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4702"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.sidebar_view_name",
+  "args": [
+   "refs",
+   "App.sidebar_view_name",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:23959",
+   "cmux-tui/crates/cmux-tui/src/app.rs:23982"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Terminal.vt_replay_bounded_theme_portable",
+  "args": [
+   "refs",
+   "Terminal.vt_replay_bounded_theme_portable",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:3510",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:5506",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:5531",
+   "cmux-tui/crates/ghostty-vt/tests/cloud_replay.rs:22",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:1184",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:369",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:587",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:640",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:674",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:692",
+   "cmux-tui/crates/ghostty-vt/tests/terminal.rs:713"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/terminal.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ResetFingerprintBudget.add_manifest_bytes",
+  "args": [
+   "refs",
+   "ResetFingerprintBudget.add_manifest_bytes",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs:1100",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs:1221"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRegistry.prepare_resource_creation",
+  "args": [
+   "refs",
+   "WorkspaceRegistry.prepare_resource_creation",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:303",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:3529",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:3559",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:6836",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:6913",
+   "cmux-tui/crates/cmux-tui-core/src/mux/resource_topology.rs:6973",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:1683",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:1942",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2021",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2044",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2062",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2087",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2121",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2156",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2175",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2187",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:2235",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs:356",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:200",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2271",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2377",
+   "cmux-tui/crates/cmux-tui-core/src/workspace_registry/tests.rs:2412"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/workspace_registry/effect_store.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PayloadDecoder.optional_string",
+  "args": [
+   "refs",
+   "PayloadDecoder.optional_string",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:6366",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:6743",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:704"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-HostAttachment.identity",
+  "args": [
+   "refs",
+   "HostAttachment.identity",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2185",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3071",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3674",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3694",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3857",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:6087",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:1705",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:1825",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:1999"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ResourceJournal.after",
+  "args": [
+   "refs",
+   "ResourceJournal.after",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs:1521",
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs:1798",
+   "cmux-tui/crates/cmux-tui-core/src/resource.rs:2005"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/resource.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserInputKind.pointer_press_button",
+  "args": [
+   "refs",
+   "BrowserInputKind.pointer_press_button",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:243",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:831"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/browser_input.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Terminal.pwd",
+  "args": [
+   "refs",
+   "Terminal.pwd",
+   "--in",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2750",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3066",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3361",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3493",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3822",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:5550",
+   "cmux-tui/crates/ghostty-vt/src/terminal.rs:3068"
+  ],
+  "note": "method cmux-tui/crates/ghostty-vt/src/terminal.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-TreeLocationIndex.build",
+  "args": [
+   "refs",
+   "TreeLocationIndex.build",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:477",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:63"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/tree.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-SshProvider.new",
+  "args": [
+   "refs",
+   "SshProvider.new",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/provider/ssh.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/provider/mod.rs:484",
+   "cmux-tui/crates/cmux-remote/src/provider/ssh.rs:419",
+   "cmux-tui/crates/cmux-remote/src/provider/ssh.rs:426",
+   "cmux-tui/crates/cmux-remote/src/provider/ssh.rs:56",
+   "cmux-tui/crates/cmux-tui/src/remote_cli.rs:1265",
+   "cmux-tui/crates/cmux-tui/src/remote_runtime.rs:482"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/provider/ssh.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserInputKind.is_resize",
+  "args": [
+   "refs",
+   "BrowserInputKind.is_resize",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1031",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1063",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:235",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:829"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/browser_input.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceRoot.display_root",
+  "args": [
+   "refs",
+   "WorkspaceRoot.display_root",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:803",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:814",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:826",
+   "cmux-tui/crates/cmux-remote/src/workspace/path.rs:86"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/path.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MessageWriter.start_stream",
+  "args": [
+   "refs",
+   "MessageWriter.start_stream",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13781",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:13921",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15143",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15223",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15224",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15253",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15254",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:17050",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:17063",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:17180",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:17227",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:17236",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19078",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19199",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19207",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19225",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19234",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:19438",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20086",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20087",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20115",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20134",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20166",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20310",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20311",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20332",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20354",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20358",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:20437",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:21848",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:21854",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:21914",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22446",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22460",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22568",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22621",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22658",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22726",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22788",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22819",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22857",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22881",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22914",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:22934",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23023",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23043",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23066",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23091",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23112",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23137",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23170",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23195",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23217",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23243",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23263",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23291",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23305",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23339",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23387",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23427",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23451",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23495",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23519",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23525",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23567",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23591",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23608",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23620",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23625",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23659",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23660",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23690",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23691",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23759",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23775",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:23947",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24006",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24082",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24145",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24161",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24182",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24227",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24228",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24251",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24260",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:24284",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2727",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:8003",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:8887",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:9467",
+   "cmux-tui/crates/cmux-tui-core/src/server/image_paste_tests.rs:71"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-StaticMachineController.switch",
+  "args": [
+   "refs",
+   "StaticMachineController.switch",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/main.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/main.rs:2800",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2804",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2871"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/main.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-HostInputRuntime.pop_if",
+  "args": [
+   "refs",
+   "HostInputRuntime.pop_if",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:10919",
+   "cmux-tui/crates/cmux-tui/src/app.rs:1229"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-TreeView.set_active_tab",
+  "args": [
+   "refs",
+   "TreeView.set_active_tab",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:13314",
+   "cmux-tui/crates/cmux-tui/src/app.rs:17000",
+   "cmux-tui/crates/cmux-tui/src/app.rs:7728",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:1478",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:311"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/tree.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-SshBootstrapper.install_local_binary",
+  "args": [
+   "refs",
+   "SshBootstrapper.install_local_binary",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs:217",
+   "cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs:335"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/ssh_bootstrap.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-JournalPluginOptions.validate",
+  "args": [
+   "refs",
+   "JournalPluginOptions.validate",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:223",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:318",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:705",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:714",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:721",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:728",
+   "cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs:735",
+   "cmux-tui/crates/cmux-tui/src/config.rs:3527"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/journal_plugin.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.apply_stream_output_for_test",
+  "args": [
+   "refs",
+   "Surface.apply_stream_output_for_test",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:32019",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:1956",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:1958",
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:1968",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:16159",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:16161",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:16264",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:16400",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10227",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10343",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10443",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10491",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10501",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4933"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-LayoutResult.pane_at",
+  "args": [
+   "refs",
+   "LayoutResult.pane_at",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/layout.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/layout.rs:1126",
+   "cmux-tui/crates/cmux-tui-core/src/layout.rs:1127",
+   "cmux-tui/crates/cmux-tui-core/src/layout.rs:78"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/layout.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-OrderedSession.new_workspace_for_semantic_intent",
+  "args": [
+   "refs",
+   "OrderedSession.new_workspace_for_semantic_intent",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:18100",
+   "cmux-tui/crates/cmux-tui/src/app.rs:3666"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.handle_projection_sidebar_key",
+  "args": [
+   "refs",
+   "App.handle_projection_sidebar_key",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:18687",
+   "cmux-tui/crates/cmux-tui/src/app.rs:18871"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-SurfaceInputLane.enqueue",
+  "args": [
+   "refs",
+   "SurfaceInputLane.enqueue",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1298",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1301",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1309",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1311",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1324",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1326",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1330",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1334",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1348",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1353",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1355",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1357",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1671",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1841",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1842",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1850",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1858",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1867",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1872",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1875",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1876",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1884",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1960",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1961",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:2005",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:2006",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:2008",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:2009",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:419",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:816"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/browser_input.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-GhosttyConfigFile.parse",
+  "args": [
+   "refs",
+   "GhosttyConfigFile.parse",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/config.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/config.rs:5340",
+   "cmux-tui/crates/cmux-tui/src/config.rs:5744"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/config.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MessageSink.send_terminal",
+  "args": [
+   "refs",
+   "MessageSink.send_terminal",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15574",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15650",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:15713",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2662",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:2849",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3927"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ProcessManager.close_workspace",
+  "args": [
+   "refs",
+   "ProcessManager.close_workspace",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:735",
+   "cmux-tui/crates/cmux-remote/src/workspace/process.rs:1905"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/process.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-RenderedMenuLevel.scrollbar_track",
+  "args": [
+   "refs",
+   "RenderedMenuLevel.scrollbar_track",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:6156",
+   "cmux-tui/crates/cmux-tui/src/app.rs:6384"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BrowserRuntime.connect_to_endpoint_with_bearer",
+  "args": [
+   "refs",
+   "BrowserRuntime.connect_to_endpoint_with_bearer",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:776",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:789",
+   "cmux-tui/crates/cmux-tui-core/src/browser.rs:792"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/browser.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-WorkspaceQueryContext.new",
+  "args": [
+   "refs",
+   "WorkspaceQueryContext.new",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/workspace/query.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:3788",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:3857",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:3894",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:3920",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:3957",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5104",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5119",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5133",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5165",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5185",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5210",
+   "cmux-tui/crates/cmux-remote/src/workspace/files.rs:5234",
+   "cmux-tui/crates/cmux-remote/src/workspace/git.rs:1014",
+   "cmux-tui/crates/cmux-remote/src/workspace/git.rs:739",
+   "cmux-tui/crates/cmux-remote/src/workspace/git.rs:769",
+   "cmux-tui/crates/cmux-remote/src/workspace/git.rs:967",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:371",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:398",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:427",
+   "cmux-tui/crates/cmux-remote/src/workspace/mod.rs:491",
+   "cmux-tui/crates/cmux-remote/src/workspace/query.rs:34"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/workspace/query.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.browser_copy_url",
+  "args": [
+   "refs",
+   "App.browser_copy_url",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:20494",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20642"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Surface.spawn_argv",
+  "args": [
+   "refs",
+   "Surface.spawn_argv",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/resource_router/content.rs:317",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5833"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-MachineRuntime.with_creation_sources",
+  "args": [
+   "refs",
+   "MachineRuntime.with_creation_sources",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/machine_runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/machine_runtime.rs:1011",
+   "cmux-tui/crates/cmux-tui/src/machine_runtime.rs:45",
+   "cmux-tui/crates/cmux-tui/src/machine_runtime.rs:48",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2377",
+   "cmux-tui/crates/cmux-tui/src/main.rs:2723",
+   "cmux-tui/crates/cmux-tui/src/main.rs:3807"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/machine_runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-App.focus_rightmost_sidebar_rail",
+  "args": [
+   "refs",
+   "App.focus_rightmost_sidebar_rail",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:10875",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20797",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20803",
+   "cmux-tui/crates/cmux-tui/src/app.rs:20825"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.set_diagnostic_reporter",
+  "args": [
+   "refs",
+   "Mux.set_diagnostic_reporter",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20408",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20584",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20587",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20633",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20636",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20639",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:20667",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:6976",
+   "cmux-tui/crates/cmux-tui/src/app.rs:9337"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PaneArea.logical_content_rect",
+  "args": [
+   "refs",
+   "PaneArea.logical_content_rect",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/app.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:21628",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22079",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22468",
+   "cmux-tui/crates/cmux-tui/src/app.rs:22482",
+   "cmux-tui/crates/cmux-tui/src/app.rs:24576",
+   "cmux-tui/crates/cmux-tui/src/app.rs:24674",
+   "cmux-tui/crates/cmux-tui/src/app.rs:4435"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/app.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-Mux.emit_terminal_scroll",
+  "args": [
+   "refs",
+   "Mux.emit_terminal_scroll",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:24747",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:7550",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2782",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3394",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3538",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5259",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5285",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5409"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/mux.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-TerminalStreamProgress.notify",
+  "args": [
+   "refs",
+   "TerminalStreamProgress.notify",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:10382",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2015",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2041",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2766",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2777",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:2980",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3370",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3384",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3532",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3569",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:3650",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4939",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:4951",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5395",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:6977",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:7334",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:4086",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:5574"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/surface.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-BoundedOutbound.close_after_control",
+  "args": [
+   "refs",
+   "BoundedOutbound.close_after_control",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3752",
+   "cmux-tui/crates/cmux-tui-core/src/server.rs:3967"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/server.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ScheduledSurfaceInputLane.new",
+  "args": [
+   "refs",
+   "ScheduledSurfaceInputLane.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:1669",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:441",
+   "cmux-tui/crates/cmux-tui/src/browser_input.rs:663"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/browser_input.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-OscCollector.observe",
+  "args": [
+   "refs",
+   "OscCollector.observe",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_metadata.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/terminal_metadata.rs:223",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_metadata.rs:41"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_metadata.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-TerminalHostExitRecord.new",
+  "args": [
+   "refs",
+   "TerminalHostExitRecord.new",
+   "--in",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31561",
+   "cmux-tui/crates/cmux-tui-core/src/mux.rs:31771",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5875",
+   "cmux-tui/crates/cmux-tui-core/src/surface.rs:5897",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:1748",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:213",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:4808",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:8231",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:8277",
+   "cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs:8284"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui-core/src/terminal_host_runtime.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-DetachedChildGuard.release",
+  "args": [
+   "refs",
+   "DetachedChildGuard.release",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs:298",
+   "cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs:324",
+   "cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs:335",
+   "cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs:342"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/bin/cmux-tui-hook.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-ScreenView.display_name",
+  "args": [
+   "refs",
+   "ScreenView.display_name",
+   "--in",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-tui/src/app.rs:10660",
+   "cmux-tui/crates/cmux-tui/src/app.rs:14600",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:577",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:993",
+   "cmux-tui/crates/cmux-tui/src/session/tree.rs:994",
+   "cmux-tui/crates/cmux-tui/src/ui/mod.rs:450"
+  ],
+  "note": "method cmux-tui/crates/cmux-tui/src/session/tree.rs; rust-analyzer references within cmux-tui/crates"
+ },
+ {
+  "id": "termik-method-PersistenceCoordinator.close_and_join_with_cleanup",
+  "args": [
+   "refs",
+   "PersistenceCoordinator.close_and_join_with_cleanup",
+   "--in",
+   "cmux-tui/crates/cmux-remote/src/identity.rs",
+   "cmux-tui/crates"
+  ],
+  "gold": [
+   "cmux-tui/crates/cmux-remote/src/identity.rs:1087",
+   "cmux-tui/crates/cmux-remote/src/identity.rs:675",
+   "cmux-tui/crates/cmux-remote/src/identity.rs:678"
+  ],
+  "note": "method cmux-tui/crates/cmux-remote/src/identity.rs; rust-analyzer references within cmux-tui/crates"
+ }
+]

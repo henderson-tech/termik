@@ -1,0 +1,6 @@
+{
+  "name": "termik-rust",
+  "repo": "../../..",
+  "sha": "69d0e13ac1acbd239f635ab03739d14764943a7f",
+  "bar": { "precision": 1.0, "recall": 0.9, "budget": 1500 }
+}
